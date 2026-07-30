@@ -39,7 +39,11 @@ Bunty's Kitchen Bowl is a fictional pet food brand created as a personal brandin
 
 ## Preview
 
-
+![Bunty logo](BUNTY'S(6).png)
+![Bunty Brands](Untitleddesign.png) 
+![Mock bowl](Gemini_Generated_Image_jrvgt9jrvgt9jrvg.png) 
+![Mock Stores](Gemini_Generated_Image_chlogachlogachlo.png)
+![Mock package](Gemini_Generated_Image_hjrwk5hjrwk5hjrw.png)
 
 ## Note
 
